@@ -1,0 +1,9 @@
+[submodule "kotlin"]
+	path = kotlin
+	url = https://github.com/jstoledano/kProjectEuler
+[submodule "java"]
+	path = java
+	url = https://github.com/jstoledano/jProjectEuler
+[submodule "net"]
+	path = net
+	url = https://github.com/jstoledano/ProjectEulerNET
